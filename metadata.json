@@ -1,0 +1,6 @@
+{
+  "name": "Online Library Management System",
+  "description": "An interactive Online Library Management System featuring Admin and Student dashboards, book search, book issues/returns, fine calculation, database console, and JPA/DTO references.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
